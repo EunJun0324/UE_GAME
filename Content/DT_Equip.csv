@@ -1,3 +1,4 @@
 ,WeaponType,Montage,PlayRatio,LockedLook
 1,OneHand,AnimMontage'/Game/Character/Montages/OneHand/Draw_Sword_Montage.Draw_Sword_Montage',2,FALSE
 2,TwoHand,AnimMontage'/Game/Character/Montages/TwoHand/Great_Sword_Draw_Montage.Great_Sword_Draw_Montage',2,FALSE
+3,Fist,,,FALSE
